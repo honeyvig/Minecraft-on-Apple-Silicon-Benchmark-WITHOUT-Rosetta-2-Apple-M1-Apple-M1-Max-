@@ -1,0 +1,1 @@
+# Minecraft-on-Apple-Silicon-Benchmark-WITHOUT-Rosetta-2-Apple-M1-Apple-M1-Max-
